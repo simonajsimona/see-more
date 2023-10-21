@@ -1,7 +1,7 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Simona Simona, PhD"
+subtitle: "Work, Service, and Passion"
+description: "Hi there! I am a researcher and lecturer at the University of Zambia. I also currently work as the Assistant Dean of the School of Humanities and Social Sciences. In my mind, I am an accomplished inspirational and keynote speaker as well as an author"
 images:
   - img/revoir.jpg
 image_left: true
