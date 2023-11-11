@@ -1,11 +1,9 @@
 ---
-title: "Create a Collection"
+title: "Training workshops"
 subtitle: "A collection, minus the blog."
 description: |
-  Sometimes you want a souped-up series- a bundle of related pages 
-  meant to be read in sequence. This section is like a blog series, 
-  minus the blog.
-author: Alison Hill
+  This is where I house all the training activities I have conduct. On      the right, you have some of the workshops done and if you click on each   title, it takes you to the programme with a list of topics. In many       cases the the link to the materials will be seen. 
+author: Simona Simona
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false
