@@ -3,7 +3,7 @@ title: "Create a website using blogdown package"
 subtitle: "Social icons may appear on several pages throughout your site. Learn how to set them up, and control where they show up."
 excerpt: "Before people begin to suspect that I am genius and that I am a computer scientist or programmer, it is important to clarify that I am not. This website was built from frameworks that have been spearheaded by people at RStudio. They are developing wonderful tools for data scientists but really open for any scientist wishing to explore the world of data science. The materials being developed are open source and can be used by any interested persons"
 date: 2023-11-12
-author: "Alison Hill & Eric Anderson"
+author: "Simona Simona"
 draft: false
 # layout options: single, single-sidebar
 layout: single

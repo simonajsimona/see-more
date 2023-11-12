@@ -1,7 +1,7 @@
 ---
-title: "Style your site colors"
-subtitle: "Use a built-in color theme, or design your own with a Tachyons palette or your own hex codes."
-excerpt: "This theme offers three ways to customize your site's colors. Use one of 8 built-in color themes, or style your own palette using named colors from the Tachyons design system. You may also bring your own hex codes to make fully custom color palette that is all your own."
+title: "Using ChatGPT for Data Analysis"
+subtitle: "AI, the future."
+excerpt: "Artificial intelligence is here to stay ans we must take advantage of the current technology and improve our productivity and reduce the time of working on our projects."
 date: 2021-01-27
 author: "Alison Hill & Eric Anderson"
 draft: false
