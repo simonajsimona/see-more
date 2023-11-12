@@ -5,7 +5,7 @@ description: |
   This is where I house all the training activities I have conduct. On      the right, you have some of the workshops done and if you click on each   title, it takes you to the programme with a list of topics. In many       cases the the link to the materials will be seen. 
 author: Simona Simona
 show_post_thumbnail: true
-thumbnail_left: false # for list-sidebar only
+thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
 # for listing page layout
@@ -15,8 +15,8 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Create a Collection"
-    author: Alison Hill
+    title: "Home of training"
+    author: Simona Simona
     description: |
       Sometimes you want a souped-up series- a bundle of related pages 
       meant to be read in sequence. This section is like a blog series, 
