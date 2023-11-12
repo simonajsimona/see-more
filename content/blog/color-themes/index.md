@@ -3,7 +3,7 @@ title: "Using ChatGPT for Data Analysis"
 subtitle: "AI, the future."
 excerpt: "Artificial intelligence is here to stay ans we must take advantage of the current technology and improve our productivity and reduce the time of working on our projects."
 date: 2021-01-27
-author: "Alison Hill & Eric Anderson"
+author: "Simona Simona"
 draft: false
 tags:
   - style

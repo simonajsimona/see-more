@@ -1,9 +1,9 @@
 ---
-title: "An evergreen post"
-subtitle: "Testing"
+title: "Web scraping using AI"
+subtitle: ""
 excerpt: "Good stuff"
 date: 2021-01-20
-author: "Alison Hill"
+author: "Simona Simona"
 draft: false
 # layout options: single, single-sidebar
 layout: single

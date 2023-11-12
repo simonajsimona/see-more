@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Projects the projects I am or I have worked on. 
+description: "I am working on this projects to give myself a better to impact people's lives."
+author: "Simona Simona"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

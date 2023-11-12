@@ -2,8 +2,8 @@
 title: "An Rmarkdown post"
 subtitle: ""
 excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
+date: 2023-11-01
+author: "Simona Simona"
 draft: false
 images:
 series:
