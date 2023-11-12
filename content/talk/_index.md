@@ -1,7 +1,7 @@
 ---
 title: Talks that Last
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  This is home to invited talks, presentations, workshops, and seminars. Accompanying materials are also included.
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
